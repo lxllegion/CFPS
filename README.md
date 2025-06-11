@@ -1,2 +1,2 @@
-# CFPS
-# CFPS
+# Collaborative Filtering + Posterior Sampling
+
